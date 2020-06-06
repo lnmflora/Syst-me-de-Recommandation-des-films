@@ -3,12 +3,12 @@
 Equipe: Mai LUU, Esther GOMBIN, Cédric DUBREUIL, Philippe BENISSAN
 
 
-Thématique :
+- Thématique :
 
 Basé sur les datasets open sources afin de créer un système de recommandation des produits
 
 
-Environnement technique :
+- Environnement technique :
 
 Python
 Pandas
@@ -19,15 +19,15 @@ Modèle Machine Learning
 Tkinter
 
 
-Process :
+- Process :
 
 Récupération des Dataset à partir des sources:
-- IMDB: https://datasets.imdbws.com
-- MovieLens: https://grouplens.org/datasets/movielens/latest/
+IMDB: https://datasets.imdbws.com
+MovieLens: https://grouplens.org/datasets/movielens/latest/
 EDA : Exploratory Data Analysis
 Data vizualisation
 
 
-Conclusion :
+- Conclusion :
 
 Notebook de produit avec une interface Tkinter
